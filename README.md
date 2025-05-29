@@ -33,17 +33,13 @@ This study was supported by the Heilongjiang Province Philosophy and Social Scie
 ## Citation
 
 ```
-@article{10.1371/journal.pone.0315267,
-    doi = {10.1371/journal.pone.0315267},
-    author = {Tang, Daoze AND Tang, Shuyun AND Fan, Zhipeng},
-    journal = {PLOS ONE},
-    publisher = {Public Library of Science},
-    title = {LCFF-Net: A lightweight cross-scale feature fusion network for tiny target detection in UAV aerial imagery},
-    year = {2024},
-    month = {12},
-    volume = {19},
-    url = {https://doi.org/10.1371/journal.pone.0315267},
-    pages = {1-24},
-    number = {12},
+@article{10.1038/s41598-025-02194-6,
+    doi = {10.1038/s41598-025-02194-6},
+    author = {Tang, Daoze AND Tang, Shuyun AND Wang, Yalin AND Guan, Shaoyun AND Jin, Yining},
+    journal = {Scientific Reports},
+    publisher = {Springer Nature},
+    title = {A Global Object-Oriented Dynamic Network for Low-Altitude Remote Sensing Object Detection},
+    year = {2025},
+    url = {https://doi.org/10.1038/s41598-025-02194-6},
 }
 ```
