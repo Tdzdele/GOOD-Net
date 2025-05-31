@@ -33,13 +33,22 @@ This study was supported by the Heilongjiang Province Philosophy and Social Scie
 ## Citation
 
 ```
-@article{10.1038/s41598-025-02194-6,
-    doi = {10.1038/s41598-025-02194-6},
-    author = {Tang, Daoze AND Tang, Shuyun AND Wang, Yalin AND Guan, Shaoyun AND Jin, Yining},
-    journal = {Scientific Reports},
-    publisher = {Springer Nature},
-    title = {A Global Object-Oriented Dynamic Network for Low-Altitude Remote Sensing Object Detection},
-    year = {2025},
-    url = {https://doi.org/10.1038/s41598-025-02194-6},
+﻿@Article{10.1038/s41598-025-02194-6,
+author={Tang, Daoze
+and Tang, Shuyun
+and Wang, Yalin
+and Guan, Shaoyun
+and Jin, Yining},
+title={A global object-oriented dynamic network for low-altitude remote sensing object detection},
+journal={Scientific Reports},
+year={2025},
+month={May},
+day={30},
+volume={15},
+number={1},
+pages={19071},
+issn={2045-2322},
+doi={10.1038/s41598-025-02194-6},
+url={https://doi.org/10.1038/s41598-025-02194-6}
 }
 ```
