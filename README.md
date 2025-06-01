@@ -35,11 +35,7 @@ We sincerely thank all those who contributed to this study.
 ## Citation
 
 ```
-<<<<<<< HEAD
-@Article{10.1038/s41598-025-02194-6,
-=======
 ﻿@Article{10.1038/s41598-025-02194-6,
->>>>>>> b3b5afa7c866ce4bd39d1a3af5e17f81fd65b98b
 author={Tang, Daoze and Tang, Shuyun and Wang, Yalin and Guan, Shaoyun and Jin, Yining},
 title={A global object-oriented dynamic network for low-altitude remote sensing object detection},
 journal={Scientific Reports},
@@ -52,10 +48,7 @@ pages={19071},
 issn={2045-2322},
 doi={10.1038/s41598-025-02194-6},
 url={https://doi.org/10.1038/s41598-025-02194-6}
-<<<<<<< HEAD
-=======
 }
->>>>>>> b3b5afa7c866ce4bd39d1a3af5e17f81fd65b98b
 ```
 
 ## Star History
