@@ -46,9 +46,9 @@ pages={19071},
 issn={2045-2322},
 doi={10.1038/s41598-025-02194-6},
 url={https://doi.org/10.1038/s41598-025-02194-6}
+```
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tdzdele/GOOD-Net&type=Date)](https://www.star-history.com/#Tdzdele/GOOD-Net&Date)
 }
-```
