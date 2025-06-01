@@ -1,0 +1,8 @@
+path: /root/autodl-tmp/CARPK
+
+train: images/train
+val: images/test
+#test:  images/test
+
+names:
+  0: car

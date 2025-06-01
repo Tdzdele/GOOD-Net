@@ -1,0 +1,22 @@
+path: ../datasets/SIMD
+
+train: images/train
+val: images/val
+#test:  images/test
+
+names:
+  0: Car
+  1: Truck
+  2: Van
+  3: LongVehicle
+  4: Bus
+  5: Airliner
+  6: PropellerAircraft
+  7: TrainerAircraft
+  8: CharteredAircraft
+  9: FighterAircraft
+  10: Others
+  11: StairTruck
+  12: PushbackTruck
+  13: Helicopter
+  14: Boat

@@ -1,0 +1,11 @@
+path: /root/autodl-tmp/UAVDT
+
+train: images/train
+val: images/test
+#test:  images/test
+
+names:
+  0: car
+  1: vehicle
+  2: truck
+  3: bus
