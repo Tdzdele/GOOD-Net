@@ -28,8 +28,6 @@ The code base is built with [Ultralytics](https://github.com/ultralytics/ultraly
 
 We sincerely thank all those who contributed to this study.
 
-This study was supported by the Heilongjiang Province Philosophy and Social Sciences Research Planning Annual Project (No. 23KSD105), the National College Students’ Innovation and Entrepreneurship Training Program of China (Nos. 202410240065 and 202310240082), the Heilongjiang Provincial College Students’ Innovation and Entrepreneurship Training Program (Nos. S202410240020 and S202410240033), and the Harbin University of Commerce College Students’ Innovation and Entrepreneurship Training Program (No. 202410240191).
-
 ## Citation
 
 ```
