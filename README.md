@@ -34,11 +34,7 @@ This study was supported by the Heilongjiang Province Philosophy and Social Scie
 
 ```
 ﻿@Article{10.1038/s41598-025-02194-6,
-author={Tang, Daoze
-and Tang, Shuyun
-and Wang, Yalin
-and Guan, Shaoyun
-and Jin, Yining},
+author={Tang, Daoze and Tang, Shuyun and Wang, Yalin and Guan, Shaoyun and Jin, Yining},
 title={A global object-oriented dynamic network for low-altitude remote sensing object detection},
 journal={Scientific Reports},
 year={2025},
@@ -50,5 +46,9 @@ pages={19071},
 issn={2045-2322},
 doi={10.1038/s41598-025-02194-6},
 url={https://doi.org/10.1038/s41598-025-02194-6}
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tdzdele/GOOD-Net&type=Date)](https://www.star-history.com/#Tdzdele/GOOD-Net&Date)
 }
 ```
