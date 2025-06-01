@@ -1,0 +1,22 @@
+200 epochs completed in 1.984 hours.
+Optimizer stripped from runs/train/VisDrone/YOLO11s/weights/last.pt, 19.2MB
+Optimizer stripped from runs/train/VisDrone/YOLO11s/weights/best.pt, 19.2MB
+
+Validating runs/train/VisDrone/YOLO11s/weights/best.pt...
+Ultralytics 8.3.54 🚀 Python-3.12.3 torch-2.5.1+cu124 CUDA:0 (NVIDIA GeForce RTX 4090, 24210MiB)
+                                                      CUDA:1 (NVIDIA GeForce RTX 4090, 24210MiB)
+YOLO11s summary (fused): 238 layers, 9,416,670 parameters, 0 gradients, 21.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 35/35 [00:06<00:00,  5.69it/s]
+                   all        548      38759      0.485      0.384      0.388      0.232
+            pedestrian        520       8844      0.508      0.398      0.421      0.191
+                people        482       5125      0.533      0.282      0.321      0.118
+               bicycle        364       1287      0.258      0.169      0.124     0.0492
+                   car        515      14064      0.714      0.776      0.796      0.566
+                   van        421       1975      0.528      0.435      0.455      0.318
+                 truck        266        750      0.516      0.357      0.372      0.243
+              tricycle        337       1045        0.4      0.294      0.277      0.155
+       awning-tricycle        220        532      0.299      0.177      0.144     0.0896
+                   bus        131        251       0.63      0.494      0.548      0.399
+                 motor        485       4886      0.463      0.461      0.427      0.189
+Speed: 0.1ms preprocess, 0.4ms inference, 0.0ms loss, 0.8ms postprocess per image
+Results saved to runs/train/VisDrone/YOLO11s

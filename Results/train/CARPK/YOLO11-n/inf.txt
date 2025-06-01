@@ -1,0 +1,12 @@
+200 epochs completed in 0.386 hours.
+Optimizer stripped from runs/train/CARPK/YOLO11-n/weights/last.pt, 5.5MB
+Optimizer stripped from runs/train/CARPK/YOLO11-n/weights/best.pt, 5.5MB
+
+Validating runs/train/CARPK/YOLO11-n/weights/best.pt...
+Ultralytics 8.3.54 🚀 Python-3.12.3 torch-2.5.1+cu124 CUDA:0 (NVIDIA GeForce RTX 4090, 24210MiB)
+                                                      CUDA:1 (NVIDIA GeForce RTX 4090, 24210MiB)
+YOLO11 summary (fused): 238 layers, 2,582,347 parameters, 0 gradients, 6.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 29/29 [00:10<00:00,  2.88it/s]
+                   all        459      47499      0.953      0.902      0.959      0.639
+Speed: 0.1ms preprocess, 0.3ms inference, 0.0ms loss, 0.5ms postprocess per image
+Results saved to runs/train/CARPK/YOLO11-n

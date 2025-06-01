@@ -1,0 +1,12 @@
+200 epochs completed in 0.780 hours.
+Optimizer stripped from runs/train/CARPK/GOOD-Net-s/weights/last.pt, 11.8MB
+Optimizer stripped from runs/train/CARPK/GOOD-Net-s/weights/best.pt, 11.8MB
+
+Validating runs/train/CARPK/GOOD-Net-s/weights/best.pt...
+Ultralytics 8.3.54 🚀 Python-3.12.3 torch-2.5.1+cu124 CUDA:0 (NVIDIA GeForce RTX 4090, 24210MiB)
+                                                      CUDA:1 (NVIDIA GeForce RTX 4090, 24210MiB)
+ours summary: 549 layers, 5,579,529 parameters, 0 gradients, 16.2 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 29/29 [00:10<00:00,  2.69it/s]
+                   all        459      47499      0.963      0.914      0.963      0.685
+Speed: 0.1ms preprocess, 2.2ms inference, 0.0ms loss, 0.5ms postprocess per image
+Results saved to runs/train/CARPK/GOOD-Net-s

@@ -1,0 +1,22 @@
+200 epochs completed in 3.995 hours.
+Optimizer stripped from runs/train/VisDrone/GOOD-Net-s_5050512/weights/last.pt, 11.8MB
+Optimizer stripped from runs/train/VisDrone/GOOD-Net-s_5050512/weights/best.pt, 11.8MB
+
+Validating runs/train/VisDrone/GOOD-Net-s_5050512/weights/best.pt...
+Ultralytics 8.3.54 🚀 Python-3.12.3 torch-2.5.1+cu124 CUDA:0 (NVIDIA GeForce RTX 4090, 24210MiB)
+                                                      CUDA:1 (NVIDIA GeForce RTX 4090, 24210MiB)
+ours summary: 549 layers, 5,581,284 parameters, 0 gradients, 16.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 35/35 [00:07<00:00,  4.77it/s]
+                   all        548      38759      0.552       0.43      0.452      0.276
+            pedestrian        520       8844      0.605      0.477      0.527      0.255
+                people        482       5125      0.577      0.375      0.421      0.175
+               bicycle        364       1287      0.313      0.215      0.183     0.0842
+                   car        515      14064      0.756      0.819      0.844      0.609
+                   van        421       1975      0.594      0.482       0.51      0.367
+                 truck        266        750      0.536      0.371      0.396      0.264
+              tricycle        337       1045      0.472      0.315      0.313      0.178
+       awning-tricycle        220        532      0.355      0.205      0.191      0.123
+                   bus        131        251       0.71      0.526      0.601       0.45
+                 motor        485       4886        0.6      0.514      0.537      0.251
+Speed: 0.1ms preprocess, 2.3ms inference, 0.0ms loss, 2.3ms postprocess per image
+Results saved to runs/train/VisDrone/GOOD-Net-s_5050512

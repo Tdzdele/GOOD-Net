@@ -1,0 +1,22 @@
+200 epochs completed in 1.727 hours.
+Optimizer stripped from runs/train/VisDrone/Ablation/SCDown/weights/last.pt, 4.4MB
+Optimizer stripped from runs/train/VisDrone/Ablation/SCDown/weights/best.pt, 4.4MB
+
+Validating runs/train/VisDrone/Ablation/SCDown/weights/best.pt...
+Ultralytics 8.3.54 🚀 Python-3.12.3 torch-2.5.1+cu124 CUDA:0 (NVIDIA GeForce RTX 4090, 24210MiB)
+                                                      CUDA:1 (NVIDIA GeForce RTX 4090, 24210MiB)
+SCDown summary (fused): 250 layers, 2,064,934 parameters, 0 gradients, 5.9 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 35/35 [00:05<00:00,  6.38it/s]
+                   all        548      38759      0.422      0.332      0.324      0.188
+            pedestrian        520       8844       0.44       0.35      0.354      0.153
+                people        482       5125      0.482      0.239      0.264     0.0943
+               bicycle        364       1287      0.214      0.112     0.0696     0.0263
+                   car        515      14064      0.636      0.752      0.757       0.52
+                   van        421       1975      0.487      0.366      0.386      0.264
+                 truck        266        750      0.378      0.299      0.281       0.18
+              tricycle        337       1045      0.335      0.245      0.199      0.108
+       awning-tricycle        220        532      0.234      0.154      0.121     0.0769
+                   bus        131        251      0.589      0.414      0.453      0.309
+                 motor        485       4886       0.42      0.392      0.353      0.144
+Speed: 0.1ms preprocess, 0.4ms inference, 0.0ms loss, 0.8ms postprocess per image
+Results saved to runs/train/VisDrone/Ablation/SCDown
